@@ -1,0 +1,7 @@
+README.md
+dataextractor
+setup.py
+dataextractor.egg-info/PKG-INFO
+dataextractor.egg-info/SOURCES.txt
+dataextractor.egg-info/dependency_links.txt
+dataextractor.egg-info/top_level.txt
